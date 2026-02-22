@@ -1,17 +1,22 @@
-# > whoami
+```bash
+$ whoami
+```
+# Vinicius de Oliveira
 
 ```bash
 $ cat about.json
+```
+```json
 {
-  "name": "Vinicius de Oliveira",
-  "role": "Auxiliar de TI",
+  "age": 16,
+  "role": "IT Intern",
   "company": "PicPay",
-  "location": "São Paulo, Brooklin",
+  "location": "São Paulo, BR",
   "interests": [
-    "Backend Development",
     "Data Engineering",
-    "Problem Solving",
-    "Automation"
+    "Backend Development",
+    "Automation",
+    "Problem Solving"
   ],
   "currently_learning": [
     "PySpark",
@@ -22,49 +27,69 @@ $ cat about.json
 }
 ```
 
-## > ls -la skills/
+---
 
-```terminal
+```bash
+$ ls -la skills/
+```
+```
 drwxr-xr-x  programming_languages/
-├── Java          ████████████░░░░░░░░ 60%
-├── Python        ███████████████░░░░░ 75%
-└── SQL           ██████████████░░░░░░ 70%
+├── Python        ███████████████░░░░░  75%
+├── SQL           ██████████████░░░░░░  70%
+└── Java          ████████████░░░░░░░░  60%
 
 drwxr-xr-x  tools/
-├── Git           ████████████████░░░░ 80%
-├── PySpark       ███████░░░░░░░░░░░░░ 35%
-└── Linux         █████████████░░░░░░░ 65%
-
-## > cat current_status.log
-
-```log
-[2026-02-02 07:30] 📕 Studing in Germinare TECH
-[2026-02-02 13:20] 🍽️ Lunch...
-[2026-02-02 14:45] 📚 Working on Pycpay
-[2026-02-02 18:45] 💻 Going to home...
-[2026-02-02 20:00] ☕ Dinner
-[2026-02-02 10:34] 😴 Sleep
-
-
-## > git log --graph --pretty=oneline
-
-```
-* 🎯 2026 - Learning Data Engineering
-* 📊 2025 - Mastering SQL & Python
-* 💼 2024 - Started @ PicPay
-* 🚀 2023 - Began IT journey
-* 🌱 202X - Born to code
+├── Git           ████████████████░░░░  80%
+├── Linux         █████████████░░░░░░░  65%
+└── PySpark       ███████░░░░░░░░░░░░░  35%  ← growing fast
 ```
 
 ---
 
 ```bash
-$ echo "Thanks for visiting! Feel free to explore my repositories 🚀"
-$ exit
+$ git log --graph --pretty=oneline
+```
+```
+* 🎯 2026 — Diving into Data Engineering @ PicPay
+* 📦 2026 — Published clearspark on PyPI
+* 📊 2025 — Leveling up SQL & Python
+* 💼 2024 — Started internship @ PicPay
+* 🚀 2023 — First steps in IT
+* 🌱 200X — Born to code
 ```
 
+---
+
+```bash
+$ cat current_status.log
+```
+```log
+[07:30] 📕 Studying at Germinare TECH
+[13:20] 🍽️  Lunch break
+[14:45] 💻 Working on data pipelines @ PicPay
+[19:00] 🏠 Back home
+[20:00] ☕ Dinner + side projects
+[23:00] 😴 Sleep (sometimes)
+```
+
+---
+
+```bash
+$ cat open_source.md
+```
+
+> 📦 **[clearspark](https://github.com/clearspark-lib/clearspark)** — A lightweight PySpark utility library for daily data engineering.
+> `pip install clearspark`
+
+---
+
+```bash
+$ echo "Thanks for visiting! Feel free to explore my repos 🚀"
+$ exit 0
+```
+
+---
+
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square)
-  
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
