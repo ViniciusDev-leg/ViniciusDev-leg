@@ -53,7 +53,6 @@ $ git log --graph --pretty=oneline
 * 🎯 2026 — Diving into Data Engineering @ PicPay
 * 📦 2026 — Published clearspark on PyPI
 * 📊 2025 — Leveling up SQL & Python
-* 💼 2024 — Started internship @ PicPay
 * 🚀 2023 — First steps in IT
 * 🌱 200X — Born to code
 ```
