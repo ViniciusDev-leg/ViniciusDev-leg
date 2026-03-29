@@ -63,8 +63,9 @@ $ git log --graph --pretty=oneline
 $ cat current_status.log
 ```
 ```log
+[05:00] ☀️ Wake up
 [07:30] 📕 Studying at Germinare TECH
-[13:20] 🍽️  Lunch break
+[13:20] 🍽️ Lunch break
 [14:45] 💻 Working on data pipelines @ PicPay
 [19:00] 🏠 Back home
 [20:00] ☕ Dinner + side projects
