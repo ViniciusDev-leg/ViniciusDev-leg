@@ -52,9 +52,8 @@ $ git log --graph --pretty=oneline
 ```
 * 🎯 2026 — Diving into Data Engineering @ PicPay
 * 📦 2026 — Published clearspark on PyPI
-* 📊 2025 — Leveling up SQL & Python
 * 🚀 2023 — First steps in IT
-* 🌱 200X — Born to code
+* 🌱 2009 — Born to code
 ```
 
 ---
@@ -63,7 +62,7 @@ $ git log --graph --pretty=oneline
 $ cat current_status.log
 ```
 ```log
-[05:00] ☀️ Wake up
+[05:00] ☀️ Wake up + Breakfast
 [07:30] 📕 Studying at Germinare TECH
 [13:20] 🍽️ Lunch break
 [14:45] 💻 Working on data pipelines @ PicPay
@@ -88,8 +87,3 @@ $ echo "Thanks for visiting! Feel free to explore my repos 🚀"
 $ exit 0
 ```
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square" alt="profile views" />
-</div>
