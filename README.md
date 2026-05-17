@@ -20,10 +20,9 @@ $ cat about.json
   ],
   "currently_learning": [
     "PySpark",
-    "Big Data",
-    "Advanced SQL"
+    "Big Data"
   ],
-  "fun_fact": "Coffee enthusiast ☕"
+  "fun_fact": "Coffee enthusiast"
 }
 ```
 
@@ -35,16 +34,18 @@ $ ls -la skills/
 ```
 drwxr-xr-x  programming_languages/
 ├── Python        ███████████████░░░░░  75%
-├── SQL           ██████████████░░░░░░  70%
-└── Java          ████████████░░░░░░░░  60%
+├── Java          ███████████████░░░░░  75%
+├── SQL           ████████████░░░░░░░░  60%
+├── JavaScript    ██████████░░░░░░░░░░  50%
+└── Kotlin        ██████░░░░░░░░░░░░░░  30%  ← growing fast
 
 drwxr-xr-x  tools/
-├── Git           ████████████████░░░░  80%
-├── Linux         █████████████░░░░░░░  65%
-└── PySpark       ███████░░░░░░░░░░░░░  35%  ← growing fast
+├── Git         ████████████████░░░░  80%
+├── PySpark     ████████████░░░░░░░░  60%
+├── Linux       ██████████░░░░░░░░░░  50%
+├── LangChain   ██████░░░░░░░░░░░░░░  30%  ← growing fast
+└── Docker      ██████░░░░░░░░░░░░░░  30%
 ```
-
----
 
 ```bash
 $ git log --graph --pretty=oneline
@@ -74,11 +75,11 @@ $ cat current_status.log
 ---
 
 ```bash
-$ cat open_source.md
+$ cat personal_projects.md
 ```
 
-> 📦 **[clearspark](https://github.com/clearspark-lib/clearspark)** — A lightweight PySpark utility library for daily data engineering.
-> `pip install clearspark`
+> **[clearspark](https://github.com/ViniciusException/clearspark)** — A lightweight PySpark utility library for daily data engineering.
+> **[aetna](https://github.com/ViniciusException/aetna)** - A LangChain based code assistant
 
 ---
 
