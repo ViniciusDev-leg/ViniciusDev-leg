@@ -78,9 +78,9 @@ $ cat current_status.log
 $ cat personal_projects.md
 ```
 
-> **[clearspark](https://github.com/ViniciusException/clearspark)** — A lightweight PySpark utility library for daily data engineering.
+> **[clearspark](https://github.com/v-skolder/clearspark)** — A lightweight PySpark utility library for daily data engineering.
 
-> **[aetna](https://github.com/ViniciusException/aetna)** - A LangChain based code assistant
+> **[aetna](https://github.com/v-skolder/aetna)** - A LangChain based code assistant
 
 ---
 
